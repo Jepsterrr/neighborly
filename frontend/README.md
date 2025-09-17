@@ -1,8 +1,5 @@
 # 🤝 Neighborly - A Web3 Community Service Exchange
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Status: In Development](https://img.shields.io/badge/status-in_development-orange)
-
 Neighborly is a decentralized Progressive Web App (PWA) designed to foster local communities by creating a trust-based marketplace for small services and favors. Instead of traditional currency, the platform operates on a local community token and a reputation system built on the blockchain.
 
 ## 📌 The Problem
