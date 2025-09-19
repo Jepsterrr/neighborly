@@ -1,12 +1,12 @@
-# 🤝 Neighborly - A Web3 Community Service Exchange
+# Neighborly - A Web3 Community Service Exchange
 
 Neighborly is a decentralized Progressive Web App (PWA) designed to foster local communities by creating a trust-based marketplace for small services and favors. Instead of traditional currency, the platform operates on a local community token and a reputation system built on the blockchain.
 
-## 📌 The Problem
+## The Problem
 
 In any local community, there's a vast amount of untapped value in small services (e.g., borrowing a power drill, getting help moving a sofa, watering plants). However, handling payments and establishing trust for these small-scale transactions can be a significant barrier, often preventing these exchanges from happening.
 
-## ✨ The Solution
+## The Solution
 
 Neighborly provides a PWA where neighbors can offer and request services. The platform is built on Web3 principles to ensure transparency and trust:
 
@@ -14,7 +14,7 @@ Neighborly provides a PWA where neighbors can offer and request services. The pl
 * **Reputation NFTs (NLYR):** Every completed service generates a non-fungible token (NFT) as a "receipt" and a testament to the user's positive contribution. These NFTs build a user's on-chain reputation.
 * **Decentralized:** Built on the Polygon network (or any EVM-compatible chain), the platform removes the need for a central intermediary to handle payments or dictate rules.
 
-## 🚀 Core Features
+## Core Features
 
 * **Service Board:** A dashboard to view and accept open service requests from neighbors.
 * **Request Creation:** Easily create new service requests with a description and a token reward.
@@ -22,7 +22,7 @@ Neighborly provides a PWA where neighbors can offer and request services. The pl
 * **User Profiles:** A personal profile linked to your wallet address, with an editable display name.
 * **On-Chain Transactions:** All core actions (requesting, accepting, confirming) are handled by smart contracts.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### Blockchain (Backend)
 * **Solidity:** For writing smart contracts.
@@ -40,7 +40,7 @@ Neighborly provides a PWA where neighbors can offer and request services. The pl
 ### Decentralized Storage
 * **IPFS:** Intended for storing the metadata (images, attributes) for the reputation NFTs.
 
-## 📂 Project Structure
+## Project Structure
 
 The project is a monorepo containing two main packages:
 
@@ -123,7 +123,7 @@ Now, let's get the user interface running.
 
     Your browser should open to `http://localhost:5173` (or a similar address) with the Neighborly app running!
 
-## 🗺️ Future Roadmap
+## Future Roadmap
 
 This is a foundational version of Neighborly. Future improvements could include:
 
